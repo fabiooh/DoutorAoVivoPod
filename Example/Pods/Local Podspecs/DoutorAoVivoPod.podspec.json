@@ -12,7 +12,8 @@
     "Fabio Ohtsuki": "fabioo@primeit.com.br"
   },
   "source": {
-    "http": "https://devops.doutoraovivo.com.br/repository/raw-dav/ios/release/0.0.1/DoutorAoVivoPod.zip"
+    "git": "https://github.com/fabiooh/DoutorAoVivoPod.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "9.3"

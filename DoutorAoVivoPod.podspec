@@ -25,7 +25,7 @@ Como apoio ao desenvolvedor, a Doutor ao Vivo disponibiliza a sua sala de consul
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Fabio Ohtsuki' => 'fabioo@primeit.com.br' }
-  s.source           = { :http => 'https://github.com/fabiooh/DoutorAoVivoPod/DoutorAoVivoPod.zip' }
+  s.source           = { :git => 'https://github.com/fabiooh/DoutorAoVivoPod.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform          = :ios
