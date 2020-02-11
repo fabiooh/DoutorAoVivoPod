@@ -1,0 +1,24 @@
+PODS:
+  - DoutorAoVivoPod (0.0.1):
+    - OpenTok
+  - OpenTok (2.16.4)
+
+DEPENDENCIES:
+  - DoutorAoVivoPod (from `../`)
+  - OpenTok
+
+SPEC REPOS:
+  trunk:
+    - OpenTok
+
+EXTERNAL SOURCES:
+  DoutorAoVivoPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DoutorAoVivoPod: 315a6fb25efe0e72c5b2642e581f3dde300142fb
+  OpenTok: 0f9a23c50524a53c612b5b70ef6ec49155928e82
+
+PODFILE CHECKSUM: e36a51602ae8d456f3af4ed2dfe12ea81b49a6f6
+
+COCOAPODS: 1.8.4

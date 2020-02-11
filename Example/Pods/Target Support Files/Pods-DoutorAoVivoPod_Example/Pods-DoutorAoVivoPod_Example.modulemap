@@ -1,0 +1,6 @@
+framework module Pods_DoutorAoVivoPod_Example {
+  umbrella header "Pods-DoutorAoVivoPod_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

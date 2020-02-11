@@ -1,0 +1,11 @@
+framework module DoutorAoVivoPod {
+  umbrella header "DoutorAoVivoPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module DoutorAoVivoPod.Swift {
+    header "DoutorAoVivoPod-Swift.h"
+    requires objc
+}
